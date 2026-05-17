@@ -1,0 +1,13 @@
+{
+  "rows_after_age_filter": 149999,
+  "selected_model": "Random Forest",
+  "selected_threshold": 0.09,
+  "score_cutoff": 550.7970771934511,
+  "test_roc_auc": 0.8655394307535504,
+  "test_pr_auc": 0.3776122501982707,
+  "test_brier": 0.04928104935023531,
+  "test_precision": 0.24711629800515675,
+  "test_recall": 0.7263661747108098,
+  "test_f1": 0.3687727825030377,
+  "optional_boosters_used": []
+}

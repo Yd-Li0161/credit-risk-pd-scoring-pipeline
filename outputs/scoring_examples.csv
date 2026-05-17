@@ -1,0 +1,7 @@
+borrower_id,pd,credit_score,risk_grade,recommended_action,below_policy_cutoff
+very_low_pd,0.01,715.3714262596125,B,Approve / standard terms,False
+low_pd,0.03,634.6511123289305,C,Approve with review or lower limit,False
+moderate_pd,0.06,582.384912803456,D,Manual review / risk-based pricing,False
+policy_threshold,0.09,550.7970771934511,D,Manual review / risk-based pricing,True
+high_pd,0.15,509.0286122820911,E,Decline or enhanced verification,True
+very_high_pd,0.3,445.0232163224543,E,Decline or enhanced verification,True

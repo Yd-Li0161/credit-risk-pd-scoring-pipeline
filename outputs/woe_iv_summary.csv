@@ -1,0 +1,11 @@
+feature,iv,bins_retained,min_bin_borrowers,max_bin_borrowers
+RevolvingUtilizationOfUnsecuredLines,1.0562409788041252,5,13499,13500
+age,0.23314145202024308,5,12930,14390
+MonthlyIncome,0.06717181392658626,6,10397,13348
+DebtRatio,0.05918740271133836,5,13447,13553
+NumberOfOpenCreditLinesAndLoans,0.0450523489531285,5,10938,17940
+NumberOfDependents,0.022772307538853866,3,5981,50944
+NumberRealEstateLoansOrLines,0.010939736219608188,3,4466,48779
+NumberOfTime30-59DaysPastDueNotWorse,0.0,1,67499,67499
+NumberOfTimes90DaysLate,0.0,1,67499,67499
+NumberOfTime60-89DaysPastDueNotWorse,0.0,1,67499,67499
